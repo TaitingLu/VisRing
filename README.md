@@ -4,20 +4,18 @@ VisRing is an open-source smart ring platform featuring a curved display and int
 
 ## Repository Structure
 
-- **Case/**  
+- **Case**  
   Contains all 3D printable components of VisRing, including both the outer shell and inner structural case.
 
-- **Firmware/**  
+- **Firmware**  
   Includes firmware for all core applications such as:
   - Message display
   - Timer
   - Heart rate monitoring
 
-- **PCB/**  
+- **PCB**  
   Hardware design files for the VisRing, including schematics, board layout, and bill of materials.
 
-- **README.md**  
-  This file. Provides an overview of the project and folder structure.
 
 ## License
 
