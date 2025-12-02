@@ -23,6 +23,6 @@ This project is released under an open-source license. See the LICENSE file (if 
 
 ## Contact
 
-For questions or collaboration inquiries, please contact [Your Name or Email].
+For questions or collaboration inquiries, please contact txl5518 \at psu.edu.
 
 ---
