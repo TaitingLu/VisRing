@@ -36,4 +36,17 @@ For details, see: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 For questions or collaboration inquiries, please contact txl5518 \at psu.edu.
 
+## Citation
+
+If you use VisRing in your research, please cite our paper:
+
+```bibtex
+@inproceedings{lu2025visring,
+  title={VisRing: A Display-Extended Smartring for Nano Visualizations},
+  author={Lu, Taiting and Krauter, Christian and Liu, Runze and Schulte, Mara and Achberger, Alexander and Blascheck, Tanja and Sedlmair, Michael and Gowda, Mahanth},
+  booktitle={Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology},
+  pages={1--18},
+  year={2025}
+}
+
 ---
